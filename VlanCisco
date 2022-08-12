@@ -1,0 +1,17 @@
+## Criando Vlan SW Cisco
+
+enable
+
+configure terminal
+
+vlan 20
+
+name Vlan-20
+
+vlan 30
+
+name Vlan-30
+
+vlan 40
+
+name Vlan-40
